@@ -1,0 +1,22 @@
+{
+  "name": "Life OS",
+  "short_name": "Life OS",
+  "description": "Dump the chaos. Follow one next move.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070809",
+  "theme_color": "#b1111d",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
